@@ -1,14 +1,16 @@
 //Student Name: CHRISTIAN PRICE
-
 //Teacher: Dr. Tyson McMillan
-
 //Date: 4/12/2021
-
 //A program to practice working with multi-dimensional arrays
 
 #include <iostream>
 
 using namespace std;
+
+//Date Created: 4-12-2021
+//Teacher and schoool: Dr. T- TCC
+//Purpose of Assignment: create a program working with mutli-dimensional arrays to keep track of data
+//Skills Learned/Gained from  Assignemnt: Arrays have the ability to have multiple dimensions
 
 int main()
 {
