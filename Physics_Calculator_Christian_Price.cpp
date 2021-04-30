@@ -9,6 +9,13 @@
 #include<sstream> //for string manipulation and comparison
 using namespace std;
 
+//Date Created: 4-2-2021
+//Teacher and schoool: Dr. T- TCC
+//Purpose of Assignment: creating a physic calculator to perform simple foundation calculations
+//Skills Learned/Gained from  Assignemnt: How to apply simple formulas and calculations into code 
+//to solve physics calulcations.
+
+
 int main() {
     char input;
     cout << "Enter:\n v for velocity\n a for acceleration\n m for motion\n n for newtons second law \n w for weight \n p for momentum\n";
