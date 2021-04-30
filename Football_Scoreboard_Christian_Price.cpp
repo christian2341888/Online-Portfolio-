@@ -2,6 +2,12 @@
 //DATE:4/20/2021
 #include <iostream>
 using namespace std;
+//Date Created: 4-20-2021
+//Teacher and schoool: Dr. T- TCC
+//Purpose of Assignment: create a C++ program that keeps track of various objects
+//and variables in a Football Scoreboard.
+//Skills Learned/Gained from  Assignemnt: how to Write the appropriate member 
+//variables, setter functions, and getter functions to make the scoreboard work
 
 class Team{
 private:
